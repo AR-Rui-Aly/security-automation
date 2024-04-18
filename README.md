@@ -8,3 +8,4 @@ Scanning for Malware: The script initiates a quick scan using Windows Defender t
 Auditing Local User Accounts: This function conducts an audit of local user accounts, providing insights into the users configured on the system. By examining user privileges and permissions, potential security risks associated with unauthorized access can be identified and addressed promptly.
 Execution:
 Upon execution, the script sequentially performs the aforementioned security tasks, providing real-time feedback on the actions being taken. Each task is initiated through PowerShell commands, ensuring compatibility and efficiency within the Windows environment.
+![Image Description](executionVisuals.png)
